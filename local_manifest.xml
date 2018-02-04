@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    
+    <!-- device tree -->	
+    <project path="device/jelly/jellypro" name="deadman96385/android_device_jelly_jellypro" remote="private" revision="cm-14.1" />
+    <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="cm-14.1" />
+
+    <!-- vendor -->
+    <project path="vendor/jelly/jellypro" name="deadman96385/android_vendor_jelly_jellypro" remote="private" revision="cm-14.1" />
+
+</manifest>
