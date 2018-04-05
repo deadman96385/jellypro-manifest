@@ -2,10 +2,10 @@
 <manifest>
     
     <!-- device tree -->	
-    <project path="device/jelly/jellypro" name="deadman96385/android_device_jelly_jellypro" remote="private" revision="cm-14.1" />
-    <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="cm-14.1" />
+    <project path="device/unihertz/jellypro" name="deadman96385/android_device_unihertz_jellypro" remote="private" revision="cm-14.1" />
+    <project path="kernel/unihertz/jellypro" name="MediatekAndroidDevelopers/android_kernel_uhans_h5000" remote="github" revision="n-7.1.2" />
 
     <!-- vendor -->
-    <project path="vendor/jelly/jellypro" name="deadman96385/android_vendor_jelly_jellypro" remote="private" revision="cm-14.1" />
+    <project path="vendor/unihertz/jellypro" name="deadman96385/android_vendor_unihertz_jellypro" remote="private" revision="cm-14.1" />
 
 </manifest>
